@@ -1,0 +1,16 @@
+build/
+dist/
+.vs/
+out/
+CMakeUserPresets.json
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+.idea/
+cmake-build-*/
+.vscode/
+*.code-workspace
+AGENTS.md
+.DS_Store
+Thumbs.db
